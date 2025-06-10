@@ -1,4 +1,4 @@
-<h1>CitizenCare</h1>
+<h1>SeniorCare</h1>
 
 This is the project done by Group-9 for the Sem-2 course "Software Engineering".
 CitizenCare sounds like a promising project! It seems to be aimed at improving citizen services or engagement. Using a combination of HTML, CSS, JavaScript, MongoDB, React.js, and Node.js suggests a comprehensive approach, covering both front-end and back-end development.
